@@ -1,2 +1,2 @@
 # codyssey_b1_2
-codyssey_b1_1
+codyssey_b1_2
